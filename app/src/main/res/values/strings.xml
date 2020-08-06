@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Aftercare And You</string>
+    <string name="name">Name:</string>
+    <string name="PW">Password:</string>
+    <string name="login">Login</string>
+    <string name="SignUp"><u>Sign UP</u></string>
+    <string name="WB">Welcome Back </string>
+    <string name="Meds">Medication: </string>
+    <string name="Sched">Schedule: </string>
+    <string name="Add">Additional Instructions:</string>
+    <string name="R">Reset</string>
+    <string name="B">Book</string>
+    <string name="C">Add Alarm</string>
+    <string name="TitleB">Booking</string>
+    <string name="E">Email: </string>
+    <string name="CN">"Contact Number: "</string>
+    <string name="YM">"Your Medication: "</string>
+    <string name="YS">"Your Schedule: "</string>
+    <array name="arrayitems">
+        <item>Hourly</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+    </array>
+</resources>
